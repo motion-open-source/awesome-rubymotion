@@ -8,10 +8,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 Thanks to Clay Allsopp who created the Motion Toolbox list.
 Thanks to all [contributors](https://github.com/motion-open-source/awesome-rubymotion/graphs/contributors), you're awesome and wouldn't be possible without you!
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
   - [Templates](#templates)
   - [Libraries and Wrappers](#libraries-and-wrappers)
     - [General](#general)
@@ -32,9 +28,8 @@ Thanks to all [contributors](https://github.com/motion-open-source/awesome-rubym
   - [Resources](#resources)
 - [Other Awesome Lists](#other-awesome-lists)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 ## Templates
+
 * [MotionTemplate](https://github.com/IconoclastLabs/MotionTemplate) - A clean RubyMotion project for quickly templating a styled application.
 * [promotion-template](https://github.com/jamonholmgren/promotion-template) - Utlize the bells and whistles of ProMotion to hit the ground running.
 * [rubymotion_generators](https://github.com/andyw8/rubymotion_generators) - Provides boilerplate code templates for RubyMotion
