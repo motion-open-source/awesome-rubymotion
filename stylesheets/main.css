@@ -67,11 +67,11 @@ input {
   }
 }
 a {
-  color: #d5000d;
+  color: #f84398;
   text-decoration: none;
 }
 a:hover {
-  color: #AA000A;
+  color: #f84398;
 }
 /* ----------------------------------------------------------------------------
  * Content styling
