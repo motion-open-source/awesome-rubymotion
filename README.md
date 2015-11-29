@@ -21,11 +21,21 @@ Thanks to all [contributors](https://github.com/motion-open-source/awesome-rubym
 
 ## Libraries and Wrappers
 
-### API Wrappers
-* [motion-firebase](https://github.com/colinta/motion-firebase) - A RubyMotion wrapper for the Firebase SDK.
+### Service API Wrappers
 * [motion-tickspot](https://github.com/codelation/motion-tickspot) - A RubyMotion wrapper for the http://tickspot.com API that works on iOS and OS X.
 * [motion-ocean](https://github.com/brianpattison/motion-ocean) - A RubyMotion wrapper for the http://digitalocean.com API v2.0
 * [sox](https://github.com/brilliantfantastic/sox) - A RubyMotion wrapper for the Freshbooks API
+* [Twittermotion](https://github.com/clayallsopp/twittermotion) - RubyMotion wrapper for the iOS Twitter API.
+* [under-os-image](https://github.com/under-os/under-os-image) - The new simplified images processing API for the http://under-os.com/ project
+* [motion-giphy](https://github.com/willrax/motion-giphy) - A nice wrapper around the http://giphy.com API.
+
+### Software API Wrappers
+* [Medic](https://github.com/ryanlntn/medic) - Is HealthKit's verbose and convoluted API driving you mad? Quick! You need a medic!
+* [MotionPanel](https://github.com/tombroomfield/motion_panel) - A native RubyMotion wrapper around the Mixpanel API.
+* [motion-firebase](https://github.com/colinta/motion-firebase) - A RubyMotion wrapper for the Firebase SDK.
+* [motion-sqlite3](https://github.com/mattgreen/motion-sqlite3) - A minimal wrapper over the SQLite 3 C API for RubyMotion
+* [motion-keychain](https://github.com/IconoclastLabs/motion-keychain) - The motion-keychain gem is a simple wrapper for Keychain on iOS and OS X. Makes using Keychain APIs as easy as NSUserDefaults.
+* [couchmotion](https://github.com/jannishuebl/couchmotion) - API for using Couchbase(CouchDB) a schemaless database with Rubymotion for Android and iOS
 
 ### Encryption
 * [rm-digest](https://github.com/tmeinlschmidt/rm-digest) - MD5 and SHA1 digest for RubyMotion (gem)
@@ -57,9 +67,9 @@ Thanks to all [contributors](https://github.com/motion-open-source/awesome-rubym
 
 Where to learn about RubyMotion and discover new RubyMotion libraries, projects and trends.
 
-* [Motion in Motion](https://motioninmotion.tv) - MotionInMotion is a paid RubyMotion screencast with an occasional free episode for the masses to enjoy.
+* [Motion in Motion](https://motioninmotion.tv) - A paid RubyMotion screencast with an occasional free episode for the masses to enjoy.
 * [Motion Casts](http://motioncasts.com) - Learn to create native iOS applications using Ruby
-* [Motion Toolbox](https://www.ruby-toolbox.com) - A collection of RubyMotion libraries and wrappers
+* [Motion Toolbox](http://motion-toolbox.com) - A collection of RubyMotion libraries and wrappers
 
 # Other Awesome Lists
 
