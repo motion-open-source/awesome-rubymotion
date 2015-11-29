@@ -5,6 +5,8 @@ A categorized community-driven collection of awesome RubyMotion example apps, li
 
 Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/motion-open-source/awesome-rubymotion/blob/master/CONTRIBUTING.md) first.
 
+[RubyMotion](http://www.rubymotion.com) is a Commercial product created by [HipByte](http://www.hipbyte.com).
+
 Thanks to Clay Allsopp who created the Motion Toolbox list.
 Thanks to all [contributors](https://github.com/motion-open-source/awesome-rubymotion/graphs/contributors), you're awesome and wouldn't be possible without you!
 
@@ -214,9 +216,11 @@ Thanks to all [contributors](https://github.com/motion-open-source/awesome-rubym
 
 Where to learn about RubyMotion and discover new RubyMotion libraries, projects and trends.
 
+* [RubyMotion Official Website](http://www.rubymotion.com) - RubyMotion Official Website.
 * [Motion in Motion](https://motioninmotion.tv) - A paid RubyMotion screencast with an occasional free episode for the masses to enjoy.
 * [Motion Casts](http://motioncasts.com) - Learn to create native iOS applications using Ruby
 * [Motion Toolbox](http://motion-toolbox.com) - A collection of RubyMotion libraries and wrappers
+* [App catalog](http://www.rubymotion.com/references/app-catalog/) - There are lots of RubyMotion apps in production.
 
 # Other Awesome Lists
 
