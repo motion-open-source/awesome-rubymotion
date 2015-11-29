@@ -394,14 +394,14 @@ body.no-literate .content pre > code:hover::-webkit-scrollbar-thumb {
   font-weight: bold;
   display: inline-block;
   padding: 3px 25px;
-  border: solid 2px #d5000d;
+  border: solid 2px #f84398;
   -webkit-border-radius: 20px;
   border-radius: 20px;
   margin-right: 15px;
 }
 .button,
 .button:visited {
-  background: #d5000d;
+  background: #f84398;
   color: #fff;
   text-shadow: none;
 }
@@ -628,18 +628,18 @@ a.big.button {
   font-weight: bold;
   font-size: 1.1em;
   background: transparent;
-  border: solid 3px #d5000d;
+  border: solid 3px #f84398;
   -webkit-border-radius: 30px;
   border-radius: 30px;
   font-family: montserrat, sans-serif;
 }
 a.big.button,
 a.big.button:visited {
-  color: #d5000d;
+  color: #f84398;
   text-decoration: none;
 }
 a.big.button:hover {
-  background: #d5000d;
+  background: #f84398;
 }
 a.big.button:hover,
 a.big.button:hover:visited {
@@ -709,7 +709,7 @@ a.big.button:hover:visited {
 }
 .menu a,
 .menu a:visited {
-  color: #d5000d;
+  color: #f84398;
 }
 .menu a:hover {
   color: #AA000A;
@@ -756,7 +756,7 @@ a.big.button:hover:visited {
   height: 3px;
   -webkit-border-radius: 2px;
   border-radius: 2px;
-  background: #d5000d;
+  background: #f84398;
 }
 code .string,
 code .number {
