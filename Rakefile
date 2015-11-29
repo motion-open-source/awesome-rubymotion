@@ -13,6 +13,7 @@ task :toolbox2md do
   result = JSON.parse(buffer)
   #PP.pp result
   result['categories'].each do |cat|
+    print "### #{cat['name']}\n"
     cat['wrappers'].each do | w |
       print "* [#{w['name']}](#{w['url']}) - #{w['description']}\n"
     end
