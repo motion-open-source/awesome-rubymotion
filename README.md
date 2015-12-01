@@ -56,6 +56,7 @@ Thanks to all [contributors](https://github.com/motion-open-source/awesome-rubym
     - [Open Source iOS Apps](#open-source-ios-apps)
     - [Propriety OS X Apps](#propriety-os-x-apps)
     - [Propriety iOS Apps](#propriety-ios-apps)
+  - [Books](#books)
   - [Tutorials](#tutorials)
     - [iOS Tutorials](#ios-tutorials)
     - [OS X Tutorials](#os-x-tutorials)
@@ -313,6 +314,12 @@ App project templates
 
 ### Propriety OS X Apps
 ### Propriety iOS Apps
+
+## Books
+* [RubyMotion, iOS Development with Ruby](http://www.allitebooks.com/rubymotion/) - Author: Clay Allsopp (free download)
+* [Building Mac OS X apps with RubyMotion](http://kickcode.com/building-mac-os-x-apps-with-rubymotion/) - Author: Elliott Draper
+* [Instant RubyMotion App Development](https://www.packtpub.com/application-development/instant-rubymotion-app-development) - Author: Gant Laborde
+* [RubyMotion iOS Development Essentials](https://www.packtpub.com/application-development/rubymotion-ios-development-essentials) - Author: Abhishek Nalwaya, Akshat Paul
 
 ## Tutorials
 
