@@ -153,6 +153,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [RubyMotionQuery - RMQ](http://infinitered.com/rmq) - UI Library for RubyMotion. Fast, non-polluting, & chaining; it’s like jQuery for RubyMotion + stylesheets, animations, events, and more.
 * [Elevate](https://github.com/mattgreen/elevate) - Stop scattering your domain logic across your view controller. Consolidate it to a single conceptual unit with Elevate.
 * [RedPotion](https://github.com/infinitered/redpotion) - RedPotion combines RMQ, ProMotion, CDQ, AFMotion, and more for the perfect mix to develop in RubyMotion fast.
+* [BluePotion](https://github.com/infinitered/bluepotion) - BluePotion is the Android version of RedPotion. (ALPHA)
 * [motion-support](https://github.com/rubymotion/motion-support) - A port of ActiveSupport to RubyMotion
 
 #### ProMotion
