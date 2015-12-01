@@ -9,24 +9,30 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 Thanks to Clay Allsopp who created the Motion Toolbox list.
 Thanks to all [contributors](https://github.com/motion-open-source/awesome-rubymotion/graphs/contributors), you're awesome and wouldn't be possible without you!
 
-- [Awesome RubyMotion](#awesome-rubymotion)
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+  - [Apps](#apps)
+    - [Example Android Apps](#example-android-apps)
+    - [Example iOS Apps](#example-ios-apps)
+    - [Example OSX Apps](#example-osx-apps)
+    - [Example tvOS Apps](#example-tvos-apps)
+    - [Open Source OS X Apps](#open-source-os-x-apps)
+    - [Open Source iOS Apps](#open-source-ios-apps)
+    - [Propriety OS X Apps](#propriety-os-x-apps)
+    - [Propriety iOS Apps](#propriety-ios-apps)
   - [Libraries, Frameworks and Wrappers](#libraries-frameworks-and-wrappers)
     - [Android](#android)
     - [Apple API Wrappers](#apple-api-wrappers)
     - [Authorization](#authorization)
     - [Data Protocols](#data-protocols)
     - [Database](#database)
-    - [Development Utilities](#development-utilities)
-      - [Project Management](#project-management)
-      - [Dependencies Management](#dependencies-management)
-      - [Screenshots](#screenshots)
-      - [Debugging & Error Reporting](#debugging-&-error-reporting)
-      - [Testing](#testing)
-      - [Updates](#updates)
+    - [Debugging & Error Reporting](#debugging-&-error-reporting)
+    - [Dependencies Management](#dependencies-management)
     - [Device support](#device-support)
     - [Encryption](#encryption)
     - [Frameworks](#frameworks)
-      - [ProMotion](#promotion)
     - [Game Development](#game-development)
     - [Graphical User Interface](#graphical-user-interface)
       - [GUI Frameworks](#gui-frameworks)
@@ -41,21 +47,14 @@ Thanks to all [contributors](https://github.com/motion-open-source/awesome-rubym
     - [Graphic Libraries](#graphic-libraries)
     - [Models & CoreData](#models-&-coredata)
     - [Networking](#networking)
+    - [Project Management](#project-management)
     - [SaaS API Wrappers](#saas-api-wrappers)
-      - [Parse.com](#parsecom)
     - [Scheduling](#scheduling)
+    - [Screenshots](#screenshots)
     - [Software Design Patterns](#software-design-patterns)
     - [Templates](#templates)
-    - [Utility Bundles](#utility-bundles)
-  - [Apps](#apps)
-    - [Example Android Apps](#example-android-apps)
-    - [Example iOS Apps](#example-ios-apps)
-    - [Example OSX Apps](#example-osx-apps)
-    - [Example tvOS Apps](#example-tvos-apps)
-    - [Open Source OS X Apps](#open-source-os-x-apps)
-    - [Open Source iOS Apps](#open-source-ios-apps)
-    - [Propriety OS X Apps](#propriety-os-x-apps)
-    - [Propriety iOS Apps](#propriety-ios-apps)
+    - [Testing](#testing)
+    - [Updates](#updates)
   - [Books](#books)
   - [Tutorials](#tutorials)
     - [iOS Tutorials](#ios-tutorials)
@@ -63,6 +62,41 @@ Thanks to all [contributors](https://github.com/motion-open-source/awesome-rubym
     - [Tutorial Screencasts](#tutorial-screencasts)
   - [Resources](#resources)
 - [Other Awesome Lists](#other-awesome-lists)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Apps
+
+### Example Android Apps
+* [Android RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/android) - A collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion.
+* [rubymotion-android-cookbook](https://github.com/IconoclastLabs/rubymotion-android-cookbook) - Awesome rm cookbook examples for android
+
+### Example iOS Apps
+* [IOS RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/ios) - A collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion.
+* [Custom Table View Cell with IB and RM](https://github.com/hackedunit/custom-cell) - Custom Table View Cell using Interface Builder with RubyMotion
+* [MotionKit iOS Samples](https://github.com/motion-kit/motion-kit/tree/master/samples/ios) - iOS Example Apps made with MotionKit
+
+### Example OSX Apps
+
+* [OSX RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/osx) - A collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion.
+* [mctv-mac-osx](https://github.com/Motioncasts/mctv-mac-osx) - Demo Pomodoro Technique Timer App
+* [motion-osx-ib](https://github.com/MarkVillacampa/motion-osx-ib) - This is an example on how to use the ib gem in a OSX RubyMotion 2.0 application.
+* [motion-treeview-coredata](https://github.com/mipmip/motion-treeview-coredata) - A port of the example from Connecting NSOutlineView to Core Data in 10.6 Part 1: Ordered Trees to RubyMotion.
+* [rm-osx-kartta](https://github.com/masal/rm-osx-kartta) - RubyMotion / OSX map viewer for Finnish topographical maps.
+* [MotionKit OSX Samples](https://github.com/motion-kit/motion-kit/tree/master/samples/osx) - OSX Example Apps made with MotionKit
+
+### Example tvOS Apps
+
+* [tvOS RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/tvos) - A collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion.
+
+### Open Source OS X Apps
+
+### Open Source iOS Apps
+
+* [buku-live-ios-rubymotion](https://github.com/mswezey/buku-live-ios-rubymotion) - iOS app built in rubymotion for music festival RFID activation
+
+### Propriety OS X Apps
+### Propriety iOS Apps
 
 ## Libraries, Frameworks and Wrappers
 
@@ -271,39 +305,6 @@ App project templates
 ### Updates
 * [motion-sparkle](https://github.com/webcracy/motion-sparkle) - motion-sparkle makes it easy to use Sparkle with your RubyMotion projects
 
-## Apps
-
-### Example Android Apps
-* [Android RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/android) - A collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion.
-* [rubymotion-android-cookbook](https://github.com/IconoclastLabs/rubymotion-android-cookbook) - Awesome rm cookbook examples for android
-
-### Example iOS Apps
-* [IOS RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/ios) - A collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion.
-* [Custom Table View Cell with IB and RM](https://github.com/hackedunit/custom-cell) - Custom Table View Cell using Interface Builder with RubyMotion
-* [MotionKit iOS Samples](https://github.com/motion-kit/motion-kit/tree/master/samples/ios) - iOS Example Apps made with MotionKit
-
-### Example OSX Apps
-
-* [OSX RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/osx) - A collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion.
-* [mctv-mac-osx](https://github.com/Motioncasts/mctv-mac-osx) - Demo Pomodoro Technique Timer App
-* [motion-osx-ib](https://github.com/MarkVillacampa/motion-osx-ib) - This is an example on how to use the ib gem in a OSX RubyMotion 2.0 application.
-* [motion-treeview-coredata](https://github.com/mipmip/motion-treeview-coredata) - A port of the example from Connecting NSOutlineView to Core Data in 10.6 Part 1: Ordered Trees to RubyMotion.
-* [rm-osx-kartta](https://github.com/masal/rm-osx-kartta) - RubyMotion / OSX map viewer for Finnish topographical maps.
-* [MotionKit OSX Samples](https://github.com/motion-kit/motion-kit/tree/master/samples/osx) - OSX Example Apps made with MotionKit
-
-### Example tvOS Apps
-
-* [tvOS RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/tvos) - A collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion.
-
-### Open Source OS X Apps
-
-### Open Source iOS Apps
-
-* [buku-live-ios-rubymotion](https://github.com/mswezey/buku-live-ios-rubymotion) - iOS app built in rubymotion for music festival RFID activation
-
-### Propriety OS X Apps
-### Propriety iOS Apps
-
 ## Books
 * [RubyMotion, iOS Development with Ruby](http://www.allitebooks.com/rubymotion/) - Author: Clay Allsopp (free download)
 * [Building Mac OS X apps with RubyMotion](http://kickcode.com/building-mac-os-x-apps-with-rubymotion/) - Author: Elliott Draper
@@ -342,8 +343,8 @@ Chapters from the book Building Mac OS X apps with RubyMotion
 
 Where to learn about RubyMotion and discover new RubyMotion libraries, projects and trends.
 
-* [Motion Toolbox](http://motion-toolbox.com) - A collection of RubyMotion libraries and wrappers
 * [RubyMotion Official Website](http://www.rubymotion.com) - RubyMotion Official Website.
+* [Motion Toolbox](http://motion-toolbox.com) - A collection of RubyMotion libraries and wrappers
 * [App catalog](http://www.rubymotion.com/references/app-catalog/) - There are lots of RubyMotion apps in production.
 
 # Other Awesome Lists
