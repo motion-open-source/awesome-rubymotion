@@ -9,60 +9,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 Thanks to Clay Allsopp who created the Motion Toolbox list.
 Thanks to all [contributors](https://github.com/motion-open-source/awesome-rubymotion/graphs/contributors), you're awesome and wouldn't be possible without you!
 
-- [Awesome RubyMotion](#awesome-rubymotion)
-  - [Libraries, Frameworks and Wrappers](#libraries-frameworks-and-wrappers)
-    - [Frameworks](#frameworks)
-      - [ProMotion](#promotion)
-    - [Android](#android)
-    - [Apple API Wrappers](#apple-api-wrappers)
-    - [Device support](#device-support)
-      - [Authorization](#authorization)
-      - [Data Protocols](#data-protocols)
-      - [Scheduling](#scheduling)
-    - [Encryption](#encryption)
-    - [Utility Bundles](#utility-bundles)
-    - [Models & CoreData](#models-&-coredata)
-    - [Graphical User Interface](#graphical-user-interface)
-      - [GUI Frameworks](#gui-frameworks)
-      - [Autolayout](#autolayout)
-      - [Input](#input)
-      - [iOS](#ios)
-      - [Forms](#forms)
-      - [Menu's & Toolbars](#menus-&-toolbars)
-      - [Icons](#icons)
-      - [Hybrid](#hybrid)
-      - [Element Wrappers](#element-wrappers)
-    - [Development Utilities](#development-utilities)
-      - [Project Management](#project-management)
-      - [Dependencies Management](#dependencies-management)
-      - [Screenshots](#screenshots)
-      - [Debugging & Error Reporting](#debugging-&-error-reporting)
-      - [Testing](#testing)
-      - [Updates](#updates)
-    - [Software Design Patterns](#software-design-patterns)
-    - [Networking](#networking)
-    - [Templates](#templates)
-    - [Gaming](#gaming)
-  - [Graphic Libraries](#graphic-libraries)
-    - [SaaS API Wrappers](#saas-api-wrappers)
-      - [Parse.com](#parsecom)
-    - [Database](#database)
-  - [Apps](#apps)
-    - [Example Android Apps](#example-android-apps)
-    - [Example iOS Apps](#example-ios-apps)
-    - [Example OSX Apps](#example-osx-apps)
-    - [Example tvOS Apps](#example-tvos-apps)
-    - [Open Source OS X Apps](#open-source-os-x-apps)
-    - [Open Source iOS Apps](#open-source-ios-apps)
-    - [Propriety OS X Apps](#propriety-os-x-apps)
-    - [Propriety iOS Apps](#propriety-ios-apps)
-  - [Tutorials](#tutorials)
-    - [iOS Tutorials](#ios-tutorials)
-    - [OS X Tutorials](#os-x-tutorials)
-    - [Tutorial Screencasts](#tutorial-screencasts)
-  - [Resources](#resources)
-- [Other Awesome Lists](#other-awesome-lists)
-
 ## Libraries, Frameworks and Wrappers
 
 ### Frameworks
@@ -111,14 +57,14 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [motion-distance](https://github.com/willrax/motion-distance) - Easy distance tracking for RubyMotion projects.
 * [motion-capture](https://github.com/dblandin/motion-capture) - An AVFoundation wrapper to support custom camera controllers.
 
-#### Authorization
+### Authorization
 * [can_i](https://github.com/macfanatic/can_i) - A RubyMotion wrapper providing a simple DSL for role authorization, similar to the CanCan gem.
 
-#### Data Protocols
+### Data Protocols
 * [motion-csv](https://github.com/OTGApps/motion-csv) - A RubyMotion friendly CSV parser gem.
 * [meteor-motion](https://github.com/whitesmith/meteor-motion) - A wrapper for Meteor DDP with support for Motion Model
 
-#### Scheduling
+### Scheduling
 * [motion-launchpad](https://github.com/macfanatic/motion-launchpad) - A gem providing a DSL allowing you to schedule events on specific launches of your application.  'motion-takeoff' only supplies displaying an alert, this gem executes any code block.
 * [motion-takeoff](https://github.com/OTGApps/motion-takeoff) - A gem for scheduling stuff. You can use motion-takeoff to display messages at certain launch counts and schedule local notifications.
 
@@ -246,10 +192,10 @@ App project templates
 * [promotion-template](https://github.com/jamonholmgren/promotion-template) - Utlize the bells and whistles of ProMotion to hit the ground running.
 * [rubymotion_generators](https://github.com/andyw8/rubymotion_generators) - Provides boilerplate code templates for RubyMotion
 
-### Gaming
+### Game Development
 * [Joybox](https://github.com/rubymotion/Joybox) - Cocos2D & Box2D Wrapper for RubyMotion.
 
-## Graphic Libraries
+### Graphic Libraries
 * [Motion-Plot](https://github.com/toamitkumar/motion-plot) - A RubyMotion wrapper for CorePlot.
 * [motion-ocr](https://github.com/ferdev/motion-ocr) - A RubyMotion wrapper for the OCR engine Tesseract.
 
