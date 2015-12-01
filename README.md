@@ -100,24 +100,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [couchmotion](https://github.com/jannishuebl/couchmotion) - API for using Couchbase(CouchDB) a schemaless database with Rubymotion for Android and iOS
 * [motion-sqlite3](https://github.com/mattgreen/motion-sqlite3) - A minimal wrapper over the SQLite 3 C API for RubyMotion
 
-### Development Utilities
-
-
-#### Project Management
-* [motion-schemes](https://github.com/siuying/motion-schemes) - Expand RubyMotion build system to support building multiple apps from one project.
-* [motion-config-vars](https://github.com/jamescallmebrent/motion-config-vars) - Heroku-style environment configuration for RubyMotion.
-* [motion-env](https://github.comclayallsopp/motion-env) - Sync ENV variables between Rakefile and RubyMotion
-* [motion-my_env](https://github.com/ainame/motion-my_env) - Simple environment variable solution for RubyMotion
-
-#### Dependencies Management
-* [MotionBundler](https://github.com/archan937/motion-bundler) - Require and mock Ruby gems (including their dependencies) within RubyMotion applications.
-* [motion-acknowledgements](https://github.com/OTGApps/motion-acknowledgements) - This gem makes it easy to include the CocoaPods acknowledgements file in your application.
-
-#### Screenshots
-* [motion-screenshots](https://github.com/clayallsopp/motion-screenshots) - Automatic screenshots for your RubyMotion apps
-* [motion-launchimages](https://github.com/brendanjcaffrey/motion-launchimages) - Automate taking your RubyMotion launch images
-
-#### Debugging & Error Reporting
+### Debugging & Error Reporting
 * [motion-reveal](https://github.com/diogoandre/motion-reveal) - Easy way to add the Reveal framework to your Rubymotion project
 * [Crittercism](https://github.com/andrewhavens/crittercism) - Easily add crash reporting to your RubyMotion app with Crittercism.
 * [motion_print](https://github.com/OTGApps/motion_print) - A RubyMotion friendly console logger and debugging tool. Use it to output pretty formatted objects to the REPL.
@@ -125,20 +108,9 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [motion-colorize](https://github.com/clayallsopp/motion-colorize) - Add some color to your RubyMotion output.
 * [motion-xray](https://github.com/colinta/motion-xray) - An iOS Inspector that runs inside your app, so you can debug and analyze from your device in real-world situations.
 
-#### Testing
-* [MotionFixtures](https://github.com/farcaller/motion-fixtures) - Simple support for test fixtures.
-* [WebStub](https://github.com/nathankot/webstub) - Easily stub out HTTP responses in RubyMotion specs.
-* [motion-stump](https://github.com/siuying/motion-stump) - Stubbing and mocking for RubyMotion.
-* [motion-frank](https://github.com/cyrusinnovation/motion-frank) - A gem to use integrate frank-cucumber into RubyMotion projects.
-* [motion-crescentia](https://github.com/Shirk/motion-crescentia) - RubyMotion wrapper for the Calabash BDD framework.
-* [motion-facon](https://github.com/chuyeow/facon) - A port of Facon mocking library to RubyMotion.
-* [guard-motion](https://github.com/mordaroso/guard-motion) - Guard::Motion automatically run your RubyMotion specs (much like autotest)
-* [motion-instabug](https://github.com/bmichotte/motion-instabug) - motion-instabug allows RubyMotion projects to easily embed the Instabug SDK and be submitted to the Instabug platform.
-* [motion-juxtapose](https://github.com/terriblelabs/motion-juxtapose) - Screenshot-driven assertions for testing Rails and RubyMotion applications.
-* [Test Sweet](https://github.com/squidpunch/test_sweet) - Integration testing your RubyMotion applications the simple and sweet way.
-
-#### Updates
-* [motion-sparkle](https://github.com/webcracy/motion-sparkle) - motion-sparkle makes it easy to use Sparkle with your RubyMotion projects
+### Dependencies Management
+* [MotionBundler](https://github.com/archan937/motion-bundler) - Require and mock Ruby gems (including their dependencies) within RubyMotion applications.
+* [motion-acknowledgements](https://github.com/OTGApps/motion-acknowledgements) - This gem makes it easy to include the CocoaPods acknowledgements file in your application.
 
 ### Device support
 * [motion-distance](https://github.com/willrax/motion-distance) - Easy distance tracking for RubyMotion projects.
@@ -156,11 +128,6 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [Elevate](https://github.com/mattgreen/elevate) - Stop scattering your domain logic across your view controller. Consolidate it to a single conceptual unit with Elevate.
 * [RedPotion](https://github.com/infinitered/redpotion) - RedPotion combines RMQ, ProMotion, CDQ, AFMotion, and more for the perfect mix to develop in RubyMotion fast.
 * [motion-support](https://github.com/rubymotion/motion-support) - A port of ActiveSupport to RubyMotion
-
-#### ProMotion
-
-There are a lot of ProMotion libraries. Seperate Section.
-
 * [ProMotion](https://github.com/infinitered/ProMotion) - A full featured RubyMotion framework that makes iPhone development less like Objective-C and more like Ruby, designed to get up and running fast.
 * [ProMotion-XLForm](https://github.com/bmichotte/ProMotion-XLForm) - ProMotion-XLForm is a ProMotion plugin for XLForm
 * [ProMotion-form](https://github.com/infinitered/ProMotion-form) - ProMotion::FormScreen - forms the ProMotion way!
@@ -240,6 +207,12 @@ There are a lot of ProMotion libraries. Seperate Section.
 * [apex](https://github.com/infinitered/apex) - Apex is a RubyMotion web framework for OS X. It uses GCDWebServer under the hood and provides a Sinatra-like router and DSL.
 * [AFMotion](https://github.com/clayallsopp/afmotion) - A RubyMotion wrapper for AFNetworking.
 
+### Project Management
+* [motion-schemes](https://github.com/siuying/motion-schemes) - Expand RubyMotion build system to support building multiple apps from one project.
+* [motion-config-vars](https://github.com/jamescallmebrent/motion-config-vars) - Heroku-style environment configuration for RubyMotion.
+* [motion-env](https://github.comclayallsopp/motion-env) - Sync ENV variables between Rakefile and RubyMotion
+* [motion-my_env](https://github.com/ainame/motion-my_env) - Simple environment variable solution for RubyMotion
+
 ### SaaS API Wrappers
 * [motionscan](https://github.com/jjaffeux/Motionscan) - A RubyMotion wrapper around the image recognition SDK of Moodstocks.com.
 * [motion-phrase](https://github.com/phrase/motion-phrase) - Connect your RubyMotion project with PhraseApp for easy app internationalization. Translatable strings are exported while browsing the app and then managable through the PhraseApp translation editor.
@@ -256,8 +229,6 @@ There are a lot of ProMotion libraries. Seperate Section.
 * [MotionPanel](https://github.com/tombroomfield/motion_panel) - A native RubyMotion wrapper around the Mixpanel API.
 * [MotionPaddle](https://github.com/henderea/motion-paddle) - A RubyMotion gem for the Paddle framework
 * [Algolia Offline Search](https://github.com/algolia/motion-algolia-search) - Simple integration of Algolia Offline Search SDK (http://www.algolia.com/) in your RubyMotion application.
-
-#### Parse.com
 * [Motion Parse](https://github.com/tkadauke/motion-parse) - Thin wrapper around the Parse SDK for RubyMotion.
 * [ParseModel](https://github.com/adelevie/ParseModel) - An Active Record pattern for your Parse models.
 * [Parsistence](https://github.com/infinitered/Parsistence) - A Parse.com wrapper similar to persistence.js.
@@ -266,6 +237,9 @@ There are a lot of ProMotion libraries. Seperate Section.
 * [motion-launchpad](https://github.com/macfanatic/motion-launchpad) - A gem providing a DSL allowing you to schedule events on specific launches of your application.  'motion-takeoff' only supplies displaying an alert, this gem executes any code block.
 * [motion-takeoff](https://github.com/OTGApps/motion-takeoff) - A gem for scheduling stuff. You can use motion-takeoff to display messages at certain launch counts and schedule local notifications.
 
+### Screenshots
+* [motion-screenshots](https://github.com/clayallsopp/motion-screenshots) - Automatic screenshots for your RubyMotion apps
+* [motion-launchimages](https://github.com/brendanjcaffrey/motion-launchimages) - Automate taking your RubyMotion launch images
 
 ### Software Design Patterns
 
@@ -282,7 +256,20 @@ App project templates
 * [promotion-template](https://github.com/jamonholmgren/promotion-template) - Utlize the bells and whistles of ProMotion to hit the ground running.
 * [rubymotion_generators](https://github.com/andyw8/rubymotion_generators) - Provides boilerplate code templates for RubyMotion
 
-### Utility Bundles
+### Testing
+* [MotionFixtures](https://github.com/farcaller/motion-fixtures) - Simple support for test fixtures.
+* [WebStub](https://github.com/nathankot/webstub) - Easily stub out HTTP responses in RubyMotion specs.
+* [motion-stump](https://github.com/siuying/motion-stump) - Stubbing and mocking for RubyMotion.
+* [motion-frank](https://github.com/cyrusinnovation/motion-frank) - A gem to use integrate frank-cucumber into RubyMotion projects.
+* [motion-crescentia](https://github.com/Shirk/motion-crescentia) - RubyMotion wrapper for the Calabash BDD framework.
+* [motion-facon](https://github.com/chuyeow/facon) - A port of Facon mocking library to RubyMotion.
+* [guard-motion](https://github.com/mordaroso/guard-motion) - Guard::Motion automatically run your RubyMotion specs (much like autotest)
+* [motion-instabug](https://github.com/bmichotte/motion-instabug) - motion-instabug allows RubyMotion projects to easily embed the Instabug SDK and be submitted to the Instabug platform.
+* [motion-juxtapose](https://github.com/terriblelabs/motion-juxtapose) - Screenshot-driven assertions for testing Rails and RubyMotion applications.
+* [Test Sweet](https://github.com/squidpunch/test_sweet) - Integration testing your RubyMotion applications the simple and sweet way.
+
+### Updates
+* [motion-sparkle](https://github.com/webcracy/motion-sparkle) - motion-sparkle makes it easy to use Sparkle with your RubyMotion projects
 
 ## Apps
 
