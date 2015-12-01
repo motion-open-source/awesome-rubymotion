@@ -134,6 +134,8 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [motion-facon](https://github.com/chuyeow/facon) - A port of Facon mocking library to RubyMotion.
 * [guard-motion](https://github.com/mordaroso/guard-motion) - Guard::Motion automatically run your RubyMotion specs (much like autotest)
 * [motion-instabug](https://github.com/bmichotte/motion-instabug) - motion-instabug allows RubyMotion projects to easily embed the Instabug SDK and be submitted to the Instabug platform.
+* [motion-juxtapose](https://github.com/terriblelabs/motion-juxtapose) - Screenshot-driven assertions for testing Rails and RubyMotion applications.
+* [Test Sweet](https://github.com/squidpunch/test_sweet) - Integration testing your RubyMotion applications the simple and sweet way.
 
 #### Updates
 * [motion-sparkle](https://github.com/webcracy/motion-sparkle) - motion-sparkle makes it easy to use Sparkle with your RubyMotion projects
