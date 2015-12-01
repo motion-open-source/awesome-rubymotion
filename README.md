@@ -204,6 +204,7 @@ Thanks to all [contributors](https://github.com/motion-open-source/awesome-rubym
 * [motion-osx-ib](https://github.com/MarkVillacampa/motion-osx-ib) - This is an example on how to use the ib gem in a OSX RubyMotion 2.0 application.
 * [motion-treeview-coredata](https://github.com/mipmip/motion-treeview-coredata) - A port of the example from Connecting NSOutlineView to Core Data in 10.6 Part 1: Ordered Trees to RubyMotion.
 * [rm-osx-kartta](https://github.com/masal/rm-osx-kartta) - RubyMotion / OSX map viewer for Finnish topographical maps.
+* [MotionKit OSX Samples](https://github.com/motion-kit/motion-kit/tree/master/samples/osx) - OSX Example Apps made with MotionKit
 
 ### Example tvOS Apps
 
