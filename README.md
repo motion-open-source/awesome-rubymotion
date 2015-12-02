@@ -16,7 +16,7 @@ Thanks to all [contributors](https://github.com/motion-open-source/awesome-rubym
   - [Apps](#apps)
     - [Example Android Apps](#example-android-apps)
     - [Example iOS Apps](#example-ios-apps)
-    - [Example OSX Apps](#example-osx-apps)
+    - [Example OS X Apps](#example-osx-apps)
     - [Example tvOS Apps](#example-tvos-apps)
     - [Open Source OS X Apps](#open-source-os-x-apps)
     - [Open Source iOS Apps](#open-source-ios-apps)
@@ -45,7 +45,7 @@ Thanks to all [contributors](https://github.com/motion-open-source/awesome-rubym
       - [Hybrid](#hybrid)
       - [Element Wrappers](#element-wrappers)
     - [Graphic Libraries](#graphic-libraries)
-    - [Models & CoreData](#models-&-coredata)
+    - [Models & Core Data](#models-&-coredata)
     - [Networking](#networking)
     - [Project Management](#project-management)
     - [SaaS API Wrappers](#saas-api-wrappers)
@@ -76,14 +76,14 @@ Thanks to all [contributors](https://github.com/motion-open-source/awesome-rubym
 * [Custom Table View Cell with IB and RM](https://github.com/hackedunit/custom-cell) - Custom Table View Cell using Interface Builder with RubyMotion
 * [MotionKit iOS Samples](https://github.com/motion-kit/motion-kit/tree/master/samples/ios) - iOS Example Apps made with MotionKit
 
-### Example OSX Apps
+### Example OS X Apps
 
-* [OSX RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/osx) - A collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion.
+* [OS X RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/osx) - A collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion.
 * [mctv-mac-osx](https://github.com/Motioncasts/mctv-mac-osx) - Demo Pomodoro Technique Timer App
-* [motion-osx-ib](https://github.com/MarkVillacampa/motion-osx-ib) - This is an example on how to use the ib gem in a OSX RubyMotion 2.0 application.
+* [motion-osx-ib](https://github.com/MarkVillacampa/motion-osx-ib) - This is an example on how to use the ib gem in a OS X RubyMotion 2.0 application.
 * [motion-treeview-coredata](https://github.com/mipmip/motion-treeview-coredata) - A port of the example from Connecting NSOutlineView to Core Data in 10.6 Part 1: Ordered Trees to RubyMotion.
-* [rm-osx-kartta](https://github.com/masal/rm-osx-kartta) - RubyMotion / OSX map viewer for Finnish topographical maps.
-* [MotionKit OSX Samples](https://github.com/motion-kit/motion-kit/tree/master/samples/osx) - OSX Example Apps made with MotionKit
+* [rm-osx-kartta](https://github.com/masal/rm-osx-kartta) - RubyMotion / OS X map viewer for Finnish topographical maps.
+* [MotionKit OS X Samples](https://github.com/motion-kit/motion-kit/tree/master/samples/osx) - OS X Example Apps made with MotionKit
 
 ### Example tvOS Apps
 
@@ -114,7 +114,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [Medic](https://github.com/ryanlntn/medic) - Is HealthKit's verbose and convoluted API driving you mad? Quick! You need a medic!
 * [motion-accessibility](https://github.com/austinseraphin/motion-accessibility) - Making accessibility accessible. RubyMotion Wrappers around the UIAccessibility protocols. Easily interact with Apple's impressive array of assistive technologies, including VoiceOver.
 * [Vendor](https://github.com/holgersindbaek/Vendor) - A RubyMotion StoreKit Wrapper that allows you to buy, restore and get product info on your in app purchases and subscriptions.
-* [motion-addressbook](https://github.com/alexrothenberg/motion-addressbook) - A RubyMotion wrapper around the iOS & OSX Address Book frameworks.
+* [motion-addressbook](https://github.com/alexrothenberg/motion-addressbook) - A RubyMotion wrapper around the iOS & OS X Address Book frameworks.
 * [Helu](https://github.com/ivanacostarubio/helu) - A RubyMotion wrapper for the Store Kit Framework
 * [motion-speech](https://github.com/macfanatic/motion-speech) - Easy text-to-speech wrapper for AVSpeechSynthesizer in iOS 7.
 * [motion-keychain](https://github.com/IconoclastLabs/motion-keychain) - The motion-keychain gem is a simple wrapper for Keychain on iOS and OS X. Makes using Keychain APIs as easy as NSUserDefaults.
@@ -207,7 +207,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 #### Menu's & Toolbars
 * [MenuMotion](https://github.com/codelation/menu-motion) - A RubyMotion wrapper for creating OS X menus
 * [better_toolbar](https://github.com/FluffyJack/better_toolbars) - A better way to work with toolbars
-* [EverydayMenu](https://github.com/henderea/everyday-menu) - An easy way to define menu items and visually lay out menus for your OSX apps.
+* [EverydayMenu](https://github.com/henderea/everyday-menu) - An easy way to define menu items and visually lay out menus for your OS X apps.
 * [StatusBar](https://github.com/holgersindbaek/status_bar) - Notifications for the statusbar.
 
 #### Icons
@@ -227,10 +227,10 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [Motion-Plot](https://github.com/toamitkumar/motion-plot) - A RubyMotion wrapper for CorePlot.
 * [motion-ocr](https://github.com/ferdev/motion-ocr) - A RubyMotion wrapper for the OCR engine Tesseract.
 
-### Models & CoreData
+### Models & Core Data
 * [MotionModel](https://github.com/sxross/MotionModel) - Simple Model, Validation, and Input Mixins for RubyMotion.
 * [NanoStoreInMotion](https://github.com/siuying/NanoStoreInMotion) - Wrapper for NanoStore, a lightweight schema-less key-value document database based on sqlite.
-* [MotionDataWrapper](https://github.com/macfanatic/motion_data_wrapper) - Intuitive querying and persistence of CoreData models, using Xcode to define entities, validations, relationships and migrations.
+* [MotionDataWrapper](https://github.com/macfanatic/motion_data_wrapper) - Intuitive querying and persistence of Core Data models, using Xcode to define entities, validations, relationships and migrations.
 * [Core Data Query - CDQ](https://github.com/infinitered/cdq) - Easy-to-set-up library for using Core Data without Xcode
 * [motion-bindable](https://github.com/nathankot/motion-bindable) - Create two-way bindings between your models and view objects (or any other object.)
 * [Turnkey](https://github.com/seldomatt/TurnKey) - Utility for saving custom objects to NSUserDefaults using NSKeyedArchiver and NSKeyedUnarchiver
@@ -249,10 +249,10 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 ### SaaS API Wrappers
 * [motionscan](https://github.com/jjaffeux/Motionscan) - A RubyMotion wrapper around the image recognition SDK of Moodstocks.com.
-* [motion-phrase](https://github.com/phrase/motion-phrase) - Connect your RubyMotion project with PhraseApp for easy app internationalization. Translatable strings are exported while browsing the app and then managable through the PhraseApp translation editor.
+* [motion-phrase](https://github.com/phrase/motion-phrase) - Connect your RubyMotion project with PhraseApp for easy app internationalization. Translatable strings are exported while browsing the app and then manageable through the PhraseApp translation editor.
 * [purple-monkey](https://github.com/hboon/purple-monkey) - Barebones wrapper for working with MailChimp on iOS/OS X using RubyMotion
 * [motion-tickspot](https://github.com/codelation/motion-tickspot) - A RubyMotion wrapper for the http://tickspot.com API that works on iOS and OS X.
-* [motion-aws](https://github.com/jamonholmgren/motion-aws) - Provides iOS and OSX connectivity to AWS services.
+* [motion-aws](https://github.com/jamonholmgren/motion-aws) - Provides iOS and OS X connectivity to AWS services.
 * [motion-ocean](https://github.com/brianpattison/motion-ocean) - A RubyMotion wrapper for the http://digitalocean.com API v2.0
 * [sox](https://github.com/brilliantfantastic/sox) - A RubyMotion wrapper for the Freshbooks API
 * [Twittermotion](https://github.com/clayallsopp/twittermotion) - RubyMotion wrapper for the iOS Twitter API.
@@ -287,7 +287,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 App project templates
 
 * [MotionTemplate](https://github.com/IconoclastLabs/MotionTemplate) - A clean RubyMotion project for quickly templating a styled application.
-* [promotion-template](https://github.com/jamonholmgren/promotion-template) - Utlize the bells and whistles of ProMotion to hit the ground running.
+* [promotion-template](https://github.com/jamonholmgren/promotion-template) - Utilize the bells and whistles of ProMotion to hit the ground running.
 * [rubymotion_generators](https://github.com/andyw8/rubymotion_generators) - Provides boilerplate code templates for RubyMotion
 
 ### Testing
@@ -315,9 +315,11 @@ App project templates
 
 ### iOS Tutorials
 
-* [Tubymotion Tutorial](http://rubymotion-tutorial.com) - Make iOS Apps With Ruby
+* [Rubymotion Tutorial](http://rubymotion-tutorial.com) - Make iOS Apps With Ruby
 * [Fabric & RubyMotion Tutorial](https://medium.com/@sammybauch/making-fabric-play-nice-with-rubymotion-48a593ac22d4#.uxe9mmczw) - Making Fabric Play Nice with RubyMotion
 * [Facebook iOS SDK](http://gavinmorrice.com/blog/posts/30-how-to-use-the-facebook-ios-sdk-in-your-rubymotion-project) - How To Use the Facebook iOS SDK In Your RubyMotion project
+* [RubyMotion Tutorial for Objective C Developers](http://hboon.com/rubymotion-tutorial-for-objective-c-developers/) - Getting experienced Objective C developers on board
+
 
 ### OS X Tutorials
 
