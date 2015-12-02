@@ -318,6 +318,8 @@ App project templates
 * [Rubymotion Tutorial](http://rubymotion-tutorial.com) - Make iOS Apps With Ruby
 * [Fabric & RubyMotion Tutorial](https://medium.com/@sammybauch/making-fabric-play-nice-with-rubymotion-48a593ac22d4#.uxe9mmczw) - Making Fabric Play Nice with RubyMotion
 * [Facebook iOS SDK](http://gavinmorrice.com/blog/posts/30-how-to-use-the-facebook-ios-sdk-in-your-rubymotion-project) - How To Use the Facebook iOS SDK In Your RubyMotion project
+* [RubyMotion Tutorial for Objective C Developers](http://hboon.com/rubymotion-tutorial-for-objective-c-developers/) - Getting experienced Objective C developers on board
+
 
 ### OS X Tutorials
 
