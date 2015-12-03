@@ -84,19 +84,32 @@ Thanks to all [contributors](https://github.com/motion-open-source/awesome-rubym
 * [motion-treeview-coredata](https://github.com/mipmip/motion-treeview-coredata) - A port of the example from Connecting NSOutlineView to Core Data in 10.6 Part 1: Ordered Trees to RubyMotion.
 * [rm-osx-kartta](https://github.com/masal/rm-osx-kartta) - RubyMotion / OS X map viewer for Finnish topographical maps.
 * [MotionKit OS X Samples](https://github.com/motion-kit/motion-kit/tree/master/samples/osx) - OS X Example Apps made with MotionKit
+* [rubymotion-avfoundation](https://github.com/superplussed/rubymotion-avfoundation) - A simple OSX app using AVFoundation to stream, record, and transcode video
 
 ### Example tvOS Apps
-
 * [tvOS RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/tvos) - A collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion.
 
 ### Open Source OS X Apps
 
 ### Open Source iOS Apps
-
 * [buku-live-ios-rubymotion](https://github.com/mswezey/buku-live-ios-rubymotion) - iOS app built in rubymotion for music festival RFID activation
 
 ### Propriety OS X Apps
+* [Versatil Markdown](http://versatilapp.com) - A note taking app built around Markdown and geared for power users
+
 ### Propriety iOS Apps
+
+## Developer Tools
+* [objc2rubymotion](https://github.com/bensheldon/objc2rubymotion) - convert objective-c code to rubymotion
+* [mLogger](https://motionobj.com/mlogger/) - A simple, log server for development
+
+## Editors & RM
+* [Vim tab completion for RubyMotion](http://crypt.codemancers.com/posts/2013-05-01-vim-tabcompletion-for-rubymotion/) - a quick rundown on setting up tab completion in vim for RubyMotion
+* [atom-objc-2-rubymotion](https://github.com/ahmetabdi/atom-objc-2-rubymotion) - Objective-C to RubyMotion converter for atom
+* [Emacs motion-mode.el](https://github.com/ainame/motion-mode) - a package to provide emacs' major mode for RubyMotion enviroment.
+* [SublimeRubyMotionBuilder](https://github.com/RubyMotionJP/SublimeRubyMotionBuilder) - Sublime Text 2 and 3 plugin to simplify RubyMotion developing
+* [RubyMine & RubyMotion](https://www.jetbrains.com/ruby/help/rubymotion.html) - RubyMine integrates with RubyMotion and helps create applications for iOS
+
 
 ## Libraries, Frameworks and Wrappers
 
@@ -340,6 +353,11 @@ Chapters from the book Building Mac OS X apps with RubyMotion
 * [Motion Casts](http://motioncasts.com) - Learn to create native iOS applications using Ruby
 * [iOS Development with RubyMotion](https://www.youtube.com/playlist?list=PLid95FTT3ehjnlpwXbM0a_pcPW0eiXtky) - YouTube Channel from Kingsley Ijomah
 * [RubyMotion Primer](https://pragmaticstudio.com/screencasts/rubymotion) - Wishing you could create iOS apps using Ruby?
+
+## Presentations
+* [Converting Obj-C to RubyMotion](https://www.icloud.com/keynote/000kP6LsvKhzNVp5MO3Z6xKDw#rubymotion_talk) - Keynote presentation about converting Objs to RubyMotion
+* [Introduction to RubyMotion](https://github.com/GantMan/RubyMotion-Intro) - Introduction to RubyMotion - The Cool Way to Build iOS Apps
+* [Building iOS Apps With RubyMotion](https://speakerdeck.com/rayhightower/building-ios-apps-with-rubymotion) - Building iOS Apps With RubyMotion
 
 ## Resources
 
