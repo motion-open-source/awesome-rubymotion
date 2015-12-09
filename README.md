@@ -326,13 +326,14 @@ App project templates
 
 ## Tutorials
 
+* [Concurrency patterns in RubyMotion](http://blog.arkency.com/2014/08/concurrent-patterns-in-rubymotion/) - Article about working with Grand Central Dispatch in RubyMotion.
+
 ### iOS Tutorials
 
 * [Rubymotion Tutorial](http://rubymotion-tutorial.com) - Make iOS Apps With Ruby
 * [Fabric & RubyMotion Tutorial](https://medium.com/@sammybauch/making-fabric-play-nice-with-rubymotion-48a593ac22d4#.uxe9mmczw) - Making Fabric Play Nice with RubyMotion
 * [Facebook iOS SDK](http://gavinmorrice.com/blog/posts/30-how-to-use-the-facebook-ios-sdk-in-your-rubymotion-project) - How To Use the Facebook iOS SDK In Your RubyMotion project
 * [RubyMotion Tutorial for Objective C Developers](http://hboon.com/rubymotion-tutorial-for-objective-c-developers/) - Getting experienced Objective C developers on board
-
 
 ### OS X Tutorials
 
@@ -358,6 +359,7 @@ Chapters from the book Building Mac OS X apps with RubyMotion
 * [Converting Obj-C to RubyMotion](https://www.icloud.com/keynote/000kP6LsvKhzNVp5MO3Z6xKDw#rubymotion_talk) - Keynote presentation about converting Objs to RubyMotion
 * [Introduction to RubyMotion](https://github.com/GantMan/RubyMotion-Intro) - Introduction to RubyMotion - The Cool Way to Build iOS Apps
 * [Building iOS Apps With RubyMotion](https://speakerdeck.com/rayhightower/building-ios-apps-with-rubymotion) - Building iOS Apps With RubyMotion
+* [Concurrency patterns in RubyMotion](https://speakerdeck.com/seanlilmateus/concurrency-patterns-in-rubymotion) - Presentation about working with Grand Central Dispatch in RubyMotion.
 
 ## Resources
 
