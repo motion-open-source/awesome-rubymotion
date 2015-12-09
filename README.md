@@ -93,6 +93,7 @@ Thanks to all [contributors](https://github.com/motion-open-source/awesome-rubym
 
 ### Open Source iOS Apps
 * [buku-live-ios-rubymotion](https://github.com/mswezey/buku-live-ios-rubymotion) - iOS app built in rubymotion for music festival RFID activation
+* [BeerJudge](https://github.com/OTGApps/BeerJudge) - iOS app for identifing different off flavors and aromas in a beer.
 
 ### Propriety OS X Apps
 * [Versatil Markdown](http://versatilapp.com) - A note taking app built around Markdown and geared for power users
