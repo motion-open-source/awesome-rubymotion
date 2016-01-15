@@ -134,6 +134,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [motion-keychain](https://github.com/IconoclastLabs/motion-keychain) - The motion-keychain gem is a simple wrapper for Keychain on iOS and OS X. Makes using Keychain APIs as easy as NSUserDefaults.
 * [motion-settings-bundle](https://github.com/qrush/motion-settings-bundle) - Create a Settings.bundle for your RubyMotion app
 * [Motion-Social](https://github.com/ivanacostarubio/motion-social) - Wrapper around the Social Framework
+* [purplish-frame](https://github.com/hboon/purplish-frame) - Make working with rects, sizes and points more convenient with RubyMotion for iOS & OS X.
 
 ### Authorization
 * [can_i](https://github.com/macfanatic/can_i) - A RubyMotion wrapper providing a simple DSL for role authorization, similar to the CanCan gem.
