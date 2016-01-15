@@ -194,6 +194,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [Teacup](https://github.com/colinta/teacup) - A community-driven DSL for creating user interfaces on the iPhone.
 * [MotionKit](https://github.com/motion-kit/motion-kit) - The RubyMotion layout and styling gem.
 * [motion-stylez](https://github.com/FluffyJack/motion-stylez) - RubyMotion stylesheet library based off RMQ
+* [purplish-frame](https://github.com/hboon/purplish-frame) - Make working with rects, sizes and points more convenient with RubyMotion for iOS & OS X.
 
 #### Autolayout
 * [purplish-layout](http://hboon.com/purplish-layout/) - A RubyMotion wrapper for Auto Layout on iOS and OS X
