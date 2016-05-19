@@ -95,6 +95,7 @@ Thanks to all [contributors](https://github.com/motion-open-source/awesome-rubym
 
 ### Open Source iOS Apps
 * [buku-live-ios-rubymotion](https://github.com/mswezey/buku-live-ios-rubymotion) - iOS app built in rubymotion for music festival RFID activation
+* [BeerJudge](https://github.com/OTGApps/BeerJudge) - iOS app for identifing different off flavors and aromas in a beer.
 
 ### Propriety OS X Apps
 * [Versatil Markdown](http://versatilapp.com) - A note taking app built around Markdown and geared for power users
@@ -195,6 +196,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [Teacup](https://github.com/colinta/teacup) - A community-driven DSL for creating user interfaces on the iPhone.
 * [MotionKit](https://github.com/motion-kit/motion-kit) - The RubyMotion layout and styling gem.
 * [motion-stylez](https://github.com/FluffyJack/motion-stylez) - RubyMotion stylesheet library based off RMQ
+* [purplish-frame](https://github.com/hboon/purplish-frame) - Make working with rects, sizes and points more convenient with RubyMotion for iOS & OS X.
 
 #### Autolayout
 * [purplish-layout](http://hboon.com/purplish-layout/) - A RubyMotion wrapper for Auto Layout on iOS and OS X
