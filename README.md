@@ -45,6 +45,7 @@ Thanks to all [contributors](https://github.com/motion-open-source/awesome-rubym
       - [Hybrid](#hybrid)
       - [Element Wrappers](#element-wrappers)
     - [Graphic Libraries](#graphic-libraries)
+    - [Localization](#Localization)
     - [Models & Core Data](#models-&-coredata)
     - [Networking](#networking)
     - [Project Management](#project-management)
@@ -85,6 +86,7 @@ Thanks to all [contributors](https://github.com/motion-open-source/awesome-rubym
 * [rm-osx-kartta](https://github.com/masal/rm-osx-kartta) - RubyMotion / OS X map viewer for Finnish topographical maps.
 * [MotionKit OS X Samples](https://github.com/motion-kit/motion-kit/tree/master/samples/osx) - OS X Example Apps made with MotionKit
 * [rubymotion-avfoundation](https://github.com/superplussed/rubymotion-avfoundation) - A simple OSX app using AVFoundation to stream, record, and transcode video
+* [Motion SourceList Boilerplate](https://github.com/mipmip/motion-sourcelist-boilerplate) - RubyMotion boilerplate app for Mac OS X implementing a view based Source List.
 
 ### Example tvOS Apps
 * [tvOS RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/tvos) - A collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion.
@@ -240,6 +242,9 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [Motion-Plot](https://github.com/toamitkumar/motion-plot) - A RubyMotion wrapper for CorePlot.
 * [motion-ocr](https://github.com/ferdev/motion-ocr) - A RubyMotion wrapper for the OCR engine Tesseract.
 
+### Localization
+* [motion-localization](https://github.com/akahigeg/motion-localization) - Localization rake task for RubyMotion
+
 ### Models & Core Data
 * [MotionModel](https://github.com/sxross/MotionModel) - Simple Model, Validation, and Input Mixins for RubyMotion.
 * [NanoStoreInMotion](https://github.com/siuying/NanoStoreInMotion) - Wrapper for NanoStore, a lightweight schema-less key-value document database based on sqlite.
@@ -247,6 +252,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [Core Data Query - CDQ](https://github.com/infinitered/cdq) - Easy-to-set-up library for using Core Data without Xcode
 * [motion-bindable](https://github.com/nathankot/motion-bindable) - Create two-way bindings between your models and view objects (or any other object.)
 * [Turnkey](https://github.com/seldomatt/TurnKey) - Utility for saving custom objects to NSUserDefaults using NSKeyedArchiver and NSKeyedUnarchiver
+* [PackingPeanut](http://gantman.github.io/PackingPeanut/) - App persistent data for RubyMotion Android and iOS
 
 ### Networking
 * [RackMotion](https://github.com/drewbug/RackMotion) - Intercept and alter HTTP requests and responses in RubyMotion
@@ -302,6 +308,8 @@ App project templates
 * [MotionTemplate](https://github.com/IconoclastLabs/MotionTemplate) - A clean RubyMotion project for quickly templating a styled application.
 * [promotion-template](https://github.com/jamonholmgren/promotion-template) - Utilize the bells and whistles of ProMotion to hit the ground running.
 * [rubymotion_generators](https://github.com/andyw8/rubymotion_generators) - Provides boilerplate code templates for RubyMotion
+* [motion-template-spritekit](https://github.com/meganemura/motion-template-spritekit) - SpriteKit project templates for RubyMotion (iOS/OSX/tvOS)
+
 
 ### Testing
 * [MotionFixtures](https://github.com/farcaller/motion-fixtures) - Simple support for test fixtures.
@@ -327,6 +335,7 @@ App project templates
 ## Tutorials
 
 * [Concurrency patterns in RubyMotion](http://blog.arkency.com/2014/08/concurrent-patterns-in-rubymotion/) - Article about working with Grand Central Dispatch in RubyMotion.
+* [iBeacons and Rubymotion](https://teamstrobe.com/2014/02/07/ibeacons-with-rubymotion.html) - How to connect iBeacons and Rubymotion iBeacons with ProximityKit and Rubymotion
 
 ### iOS Tutorials
 
@@ -360,6 +369,7 @@ Chapters from the book Building Mac OS X apps with RubyMotion
 * [Introduction to RubyMotion](https://github.com/GantMan/RubyMotion-Intro) - Introduction to RubyMotion - The Cool Way to Build iOS Apps
 * [Building iOS Apps With RubyMotion](https://speakerdeck.com/rayhightower/building-ios-apps-with-rubymotion) - Building iOS Apps With RubyMotion
 * [Concurrency patterns in RubyMotion](https://speakerdeck.com/seanlilmateus/concurrency-patterns-in-rubymotion) - Presentation about working with Grand Central Dispatch in RubyMotion.
+* [Talk about RubyMotion and Low Energy Bleutooth Sensors](https://vimeo.com/groups/199097/videos/69529068)
 
 ## Resources
 
