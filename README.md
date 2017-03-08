@@ -87,11 +87,15 @@ Thanks to all [contributors](https://github.com/motion-open-source/awesome-rubym
 * [MotionKit OS X Samples](https://github.com/motion-kit/motion-kit/tree/master/samples/osx) - OS X Example Apps made with MotionKit
 * [rubymotion-avfoundation](https://github.com/superplussed/rubymotion-avfoundation) - A simple OSX app using AVFoundation to stream, record, and transcode video
 * [Motion SourceList Boilerplate](https://github.com/mipmip/motion-sourcelist-boilerplate) - RubyMotion boilerplate app for Mac OS X implementing a view based Source List.
+* [menubar-popover](https://github.com/JonasNielsen/menubar-popover) - Example app to show how to use NSPopopver from the menubar
+
 
 ### Example tvOS Apps
 * [tvOS RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/tvos) - A collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion.
 
 ### Open Source OS X Apps
+* [timer-for-tick](https://codelation.com/timer-for-tick) [GitHub project](https://github.com/codelation/tick-timer) - RubyMotion menu bar app for tracking time with http://tickspot.com
+* [Presence](https://github.com/calmyournerves/presence) - Desktop Menu Bar for [Uberzeit](https://github.com/ninech/uberzeit), a self hosted time tracking platform
 
 ### Open Source iOS Apps
 * [buku-live-ios-rubymotion](https://github.com/mswezey/buku-live-ios-rubymotion) - iOS app built in rubymotion for music festival RFID activation
