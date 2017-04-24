@@ -96,6 +96,7 @@ Thanks to all [contributors](https://github.com/motion-open-source/awesome-rubym
 ### Open Source OS X Apps
 * [timer-for-tick](https://codelation.com/timer-for-tick) [GitHub project](https://github.com/codelation/tick-timer) - RubyMotion menu bar app for tracking time with http://tickspot.com
 * [Presence](https://github.com/calmyournerves/presence) - Desktop Menu Bar for [Uberzeit](https://github.com/ninech/uberzeit), a self hosted time tracking platform
+* [MemoryTamer](https://github.com/henderea/MemoryTamer) - A RubyMotion application for keeping memory usage in check. [http://www.memorytamer.com/](http://www.memorytamer.com/)
 
 ### Open Source iOS Apps
 * [buku-live-ios-rubymotion](https://github.com/mswezey/buku-live-ios-rubymotion) - iOS app built in rubymotion for music festival RFID activation
