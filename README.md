@@ -76,9 +76,14 @@ Thanks to all [contributors](https://github.com/motion-open-source/awesome-rubym
 * [IOS RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/ios) - A collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion.
 * [Custom Table View Cell with IB and RM](https://github.com/hackedunit/custom-cell) - Custom Table View Cell using Interface Builder with RubyMotion
 * [MotionKit iOS Samples](https://github.com/motion-kit/motion-kit/tree/master/samples/ios) - iOS Example Apps made with MotionKit
+* [Motion Dropbox Example](https://github.com/mipmip/motion-dropbox-example) - App for demonstrating how to use official Dropbox API v2 SDK
+* [Big Nerd Ranch Guide to iOS Programming Example in RubyMotion](https://github.com/jimweirich/bnr-ios-rubymotion) - RubyMotion code examples from the book
+* [motion-webview](https://github.com/tvandervossen/motion-webview) - Simple RubyMotion example project to wrap a full-screen HTML5 app into an iOS app.
+
+### Example Hybrid (iOS/Andriod) App's
+[RubyMotion Hybrid Sample](https://github.com/HipByte/rubymotion-hybrid-sample) - An example from HipByte of a RubyMotion hybrid (iOS + Android) app
 
 ### Example OS X Apps
-
 * [OS X RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/osx) - A collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion.
 * [mctv-mac-osx](https://github.com/Motioncasts/mctv-mac-osx) - Demo Pomodoro Technique Timer App
 * [motion-osx-ib](https://github.com/MarkVillacampa/motion-osx-ib) - This is an example on how to use the ib gem in a OS X RubyMotion 2.0 application.
