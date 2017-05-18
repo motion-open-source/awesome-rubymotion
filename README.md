@@ -1,4 +1,4 @@
-# Awesome RubyMotion
+# Awesome RubyMotion [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A categorized community-driven collection of awesome RubyMotion example apps, libraries, tools, frameworks, software and resources.
 
