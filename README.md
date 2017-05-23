@@ -2,7 +2,7 @@
 
 # [<img src="awesome-rubymotion.png">](https://github.com/motion-open-source/awesome-rubymotion)
 
-RubyMotion is an implementation of the Ruby programming language that compiles into native app's that run on iOS, OS X and Android. RubyMotion is a commercial product created by Laurent Sansonetti for HipByte and is based on MacRuby for macOS. RubyMotion works exclusively on macOS.
+RubyMotion is an implementation of the Ruby programming language that compiles into native app's that run on iOS, macOS and Android. RubyMotion is a commercial product created by Laurent Sansonetti for HipByte and is based on MacRuby for macOS. RubyMotion works exclusively on macOS.
 
 This list categorized community-driven collection of awesome RubyMotion example apps, libraries, tools, frameworks, software and resources.  Sharing, suggestions and contributions are always welcome!
 
@@ -18,11 +18,11 @@ Please take a look at the [contribution guidelines and quality standard](https:/
     - [Example Android Apps](#example-android-apps)
     - [Example iOS Apps](#example-ios-apps)
     - [Example Hybrid (iOS/Andriod) App's](#example-hybrid-iosandriod-apps)
-    - [Example OS X Apps](#example-os-x-apps)
+    - [Example macOS Apps](#example-os-x-apps)
     - [Example tvOS Apps](#example-tvos-apps)
-    - [Open Source OS X Apps](#open-source-os-x-apps)
+    - [Open Source macOS Apps](#open-source-os-x-apps)
     - [Open Source iOS Apps](#open-source-ios-apps)
-    - [Propriety OS X Apps](#propriety-os-x-apps)
+    - [Propriety macOS Apps](#propriety-os-x-apps)
     - [Propriety iOS Apps](#propriety-ios-apps)
   - [Developer Tools](#developer-tools)
   - [Editors & RM](#editors--rm)
@@ -63,7 +63,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
   - [Books](#books)
   - [Tutorials](#tutorials)
     - [iOS Tutorials](#ios-tutorials)
-    - [OS X Tutorials](#os-x-tutorials)
+    - [macOS Tutorials](#os-x-tutorials)
     - [Tutorial Screencasts](#tutorial-screencasts)
   - [Presentations](#presentations)
   - [Resources](#resources)
@@ -92,15 +92,15 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 [RubyMotion Hybrid Sample](https://github.com/HipByte/rubymotion-hybrid-sample) - Example from HipByte of a RubyMotion hybrid (iOS + Android) app
 
 
-### Example OS X Apps
-* [OS X RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/osx) - Collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion.
+### Example macOS Apps
+* [macOS RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/osx) - Collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion.
 * [mctv-mac-osx](https://github.com/Motioncasts/mctv-mac-osx) - Demo Pomodoro Technique Timer App
-* [motion-osx-ib](https://github.com/MarkVillacampa/motion-osx-ib) - This is an example on how to use the ib gem in a OS X RubyMotion 2.0 application.
+* [motion-osx-ib](https://github.com/MarkVillacampa/motion-osx-ib) - This is an example on how to use the ib gem in a macOS RubyMotion 2.0 application.
 * [motion-treeview-coredata](https://github.com/mipmip/motion-treeview-coredata) - Port of the example from Connecting NSOutlineView to Core Data in 10.6 Part 1: Ordered Trees to RubyMotion.
-* [rm-osx-kartta](https://github.com/masal/rm-osx-kartta) - RubyMotion / OS X map viewer for Finnish topographical maps.
-* [MotionKit OS X Samples](https://github.com/motion-kit/motion-kit/tree/master/samples/osx) - OS X Example Apps made with MotionKit
+* [rm-osx-kartta](https://github.com/masal/rm-osx-kartta) - RubyMotion / macOS map viewer for Finnish topographical maps.
+* [MotionKit macOS Samples](https://github.com/motion-kit/motion-kit/tree/master/samples/osx) - macOS Example Apps made with MotionKit
 * [rubymotion-avfoundation](https://github.com/superplussed/rubymotion-avfoundation) - Simple OSX app using AVFoundation to stream, record, and transcode video
-* [Motion SourceList Boilerplate](https://github.com/mipmip/motion-sourcelist-boilerplate) - RubyMotion boilerplate app for Mac OS X implementing a view based Source List.
+* [Motion SourceList Boilerplate](https://github.com/mipmip/motion-sourcelist-boilerplate) - RubyMotion boilerplate app for Mac macOS implementing a view based Source List.
 * [menubar-popover](https://github.com/JonasNielsen/menubar-popover) - Example app to show how to use NSPopopver from the menubar
 
 
@@ -108,7 +108,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 * [tvOS RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/tvos) - Collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion.
 
 
-### Open Source OS X Apps
+### Open Source macOS Apps
 * [timer-for-tick](https://codelation.com/timer-for-tick) [GitHub project](https://github.com/codelation/tick-timer) - RubyMotion menu bar app for tracking time with http://tickspot.com
 * [Presence](https://github.com/calmyournerves/presence) - Desktop Menu Bar for [Uberzeit](https://github.com/ninech/uberzeit), a self hosted time tracking platform
 * [MemoryTamer](https://github.com/henderea/MemoryTamer) - RubyMotion application for keeping memory usage in check. [http://www.memorytamer.com/](http://www.memorytamer.com/)
@@ -119,7 +119,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 * [BeerJudge](https://github.com/OTGApps/BeerJudge) - iOS app for identifing different off flavors and aromas in a beer.
 
 
-### Propriety OS X Apps
+### Propriety macOS Apps
 * [Versatil Markdown](http://versatilapp.com) - Note taking app built around Markdown and geared for power users
 
 
@@ -150,15 +150,15 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 
 ### Apple API Wrappers
-* [motion.h](https://github.com/kastiglione/motion.h) - Expose iOS and OS X system libraries in RubyMotion.
+* [motion.h](https://github.com/kastiglione/motion.h) - Expose iOS and macOS system libraries in RubyMotion.
 * [MapKitWrapper](https://github.com/weibel/MapKitWrapper) - Make dealing with MapKit less painful for RubyMotion.
 * [Medic](https://github.com/ryanlntn/medic) - Is HealthKit's verbose and convoluted API driving you mad? Quick! You need a medic!
 * [motion-accessibility](https://github.com/austinseraphin/motion-accessibility) - Making accessibility accessible. RubyMotion Wrappers around the UIAccessibility protocols. Easily interact with Apple's impressive array of assistive technologies, including VoiceOver.
 * [Vendor](https://github.com/holgersindbaek/Vendor) - RubyMotion StoreKit Wrapper that allows you to buy, restore and get product info on your in app purchases and subscriptions.
-* [motion-addressbook](https://github.com/alexrothenberg/motion-addressbook) - RubyMotion wrapper around the iOS & OS X Address Book frameworks.
+* [motion-addressbook](https://github.com/alexrothenberg/motion-addressbook) - RubyMotion wrapper around the iOS & macOS Address Book frameworks.
 * [Helu](https://github.com/ivanacostarubio/helu) - RubyMotion wrapper for the Store Kit Framework
 * [motion-speech](https://github.com/macfanatic/motion-speech) - Easy text-to-speech wrapper for AVSpeechSynthesizer in iOS 7.
-* [motion-keychain](https://github.com/IconoclastLabs/motion-keychain) - The motion-keychain gem is a simple wrapper for Keychain on iOS and OS X. Makes using Keychain APIs as easy as NSUserDefaults.
+* [motion-keychain](https://github.com/IconoclastLabs/motion-keychain) - The motion-keychain gem is a simple wrapper for Keychain on iOS and macOS. Makes using Keychain APIs as easy as NSUserDefaults.
 * [motion-settings-bundle](https://github.com/qrush/motion-settings-bundle) - Create a Settings.bundle for your RubyMotion app
 * [Motion-Social](https://github.com/ivanacostarubio/motion-social) - Wrapper around the Social Framework
 
@@ -232,11 +232,11 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [Teacup](https://github.com/colinta/teacup) - Community-driven DSL for creating user interfaces on the iPhone.
 * [MotionKit](https://github.com/motion-kit/motion-kit) - The RubyMotion layout and styling gem.
 * [motion-stylez](https://github.com/FluffyJack/motion-stylez) - RubyMotion stylesheet library based off RMQ
-* [purplish-frame](https://github.com/hboon/purplish-frame) - Make working with rects, sizes and points more convenient with RubyMotion for iOS & OS X.
+* [purplish-frame](https://github.com/hboon/purplish-frame) - Make working with rects, sizes and points more convenient with RubyMotion for iOS & macOS.
 
 
 #### Autolayout
-* [purplish-layout](http://hboon.com/purplish-layout/) - RubyMotion wrapper for Auto Layout on iOS and OS X
+* [purplish-layout](http://hboon.com/purplish-layout/) - RubyMotion wrapper for Auto Layout on iOS and macOS
 * [motion-layout](https://github.com/qrush/motion-layout) - Nice way to use Auto Layout in your RubyMotion app.
 
 
@@ -263,9 +263,9 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 
 #### Menu's & Toolbars
-* [MenuMotion](https://github.com/codelation/menu-motion) - RubyMotion wrapper for creating OS X menus
+* [MenuMotion](https://github.com/codelation/menu-motion) - RubyMotion wrapper for creating macOS menus
 * [better_toolbar](https://github.com/FluffyJack/better_toolbars) - Better way to work with toolbars
-* [EverydayMenu](https://github.com/henderea/everyday-menu) - Easy way to define menu items and visually lay out menus for your OS X apps.
+* [EverydayMenu](https://github.com/henderea/everyday-menu) - Easy way to define menu items and visually lay out menus for your macOS apps.
 * [StatusBar](https://github.com/holgersindbaek/status_bar) - Notifications for the statusbar.
 
 
@@ -307,7 +307,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 ### Networking
 * [RackMotion](https://github.com/drewbug/RackMotion) - Intercept and alter HTTP requests and responses in RubyMotion
 * [motion-net-service](https://github.com/fearoffish/motion-net-service) - RubyMotion wrapper providing a simple DSL for the Bonjour (NSNetService) zero configuration network protocol.
-* [apex](https://github.com/infinitered/apex) - Apex is a RubyMotion web framework for OS X. It uses GCDWebServer under the hood and provides a Sinatra-like router and DSL.
+* [apex](https://github.com/infinitered/apex) - Apex is a RubyMotion web framework for macOS. It uses GCDWebServer under the hood and provides a Sinatra-like router and DSL.
 * [AFMotion](https://github.com/clayallsopp/afmotion) - RubyMotion wrapper for AFNetworking.
 
 
@@ -321,9 +321,9 @@ Because Android support is quite new we're keeping the libraries together in thi
 ### SaaS API Wrappers
 * [motionscan](https://github.com/jjaffeux/Motionscan) - RubyMotion wrapper around the image recognition SDK of Moodstocks.com.
 * [motion-phrase](https://github.com/phrase/motion-phrase) - Connect your RubyMotion project with PhraseApp for easy app internationalization. Translatable strings are exported while browsing the app and then manageable through the PhraseApp translation editor.
-* [purple-monkey](https://github.com/hboon/purple-monkey) - Barebones wrapper for working with MailChimp on iOS/OS X using RubyMotion
-* [motion-tickspot](https://github.com/codelation/motion-tickspot) - RubyMotion wrapper for the http://tickspot.com API that works on iOS and OS X.
-* [motion-aws](https://github.com/jamonholmgren/motion-aws) - Provides iOS and OS X connectivity to AWS services.
+* [purple-monkey](https://github.com/hboon/purple-monkey) - Barebones wrapper for working with MailChimp on iOS/macOS using RubyMotion
+* [motion-tickspot](https://github.com/codelation/motion-tickspot) - RubyMotion wrapper for the http://tickspot.com API that works on iOS and macOS.
+* [motion-aws](https://github.com/jamonholmgren/motion-aws) - Provides iOS and macOS connectivity to AWS services.
 * [motion-ocean](https://github.com/brianpattison/motion-ocean) - RubyMotion wrapper for the http://digitalocean.com API v2.0
 * [sox](https://github.com/brilliantfantastic/sox) - RubyMotion wrapper for the Freshbooks API
 * [Twittermotion](https://github.com/clayallsopp/twittermotion) - RubyMotion wrapper for the iOS Twitter API.
@@ -383,7 +383,7 @@ App project templates
 
 ## Books
 * [RubyMotion, iOS Development with Ruby](http://www.allitebooks.com/rubymotion/) - Author: Clay Allsopp (free download)
-* [Building Mac OS X apps with RubyMotion](http://kickcode.com/building-mac-os-x-apps-with-rubymotion/) - Author: Elliott Draper
+* [Building Mac macOS apps with RubyMotion](http://kickcode.com/building-mac-os-x-apps-with-rubymotion/) - Author: Elliott Draper
 * [Instant RubyMotion App Development](https://www.packtpub.com/application-development/instant-rubymotion-app-development) - Author: Gant Laborde
 * [RubyMotion iOS Development Essentials](https://www.packtpub.com/application-development/rubymotion-ios-development-essentials) - Author: Abhishek Nalwaya, Akshat Paul
 
@@ -402,17 +402,17 @@ App project templates
 * [RubyMotion Tutorial for Objective C Developers](http://hboon.com/rubymotion-tutorial-for-objective-c-developers/) - Getting experienced Objective C developers on board
 
 
-### OS X Tutorials
+### macOS Tutorials
 
 * [Let's Write a RubyMotion App: Part 1](http://code.tutsplus.com/tutorials/lets-write-a-rubymotion-app-part-1--cms-20612) - In this tutorial, you’ll build a painting application from scratch.
 * [Custom Table View Cell with IB and RM](http://blog.nuventure.in/2014/12/19/custom-table-view-cell-using-interface-builder-with-rubymotion/) - Custom Table View Cell using Interface Builder with RubyMotion.
 
-Chapters from the book Building Mac OS X apps with RubyMotion
+Chapters from the book Building Mac macOS apps with RubyMotion
 
 * [Working with NSTableView](http://kickcode.com/blog/2015/08/18/working-with-nstableview.html) - Working with NSTableView
-* [Dragging and dropping](http://kickcode.com/blog/2015/05/20/dragging-and-dropping-into-a-rubymotion-mac-os-x-app.html) - Dragging and dropping into your RubyMotion Mac OS X app
-* [Capturing video and audio](http://kickcode.com/blog/2015/05/06/capturing-video-and-audio-on-mac-os-x-with-rubymotion.html) - Capturing video and audio on Mac OS X with RubyMotion
-* [Previewing video and audio when capturing](http://kickcode.com/blog/2015/05/07/previewing-video-and-audio-when-capturing-on-mac-os-x-with-rubymotion.html) - Previewing video and audio when capturing on Mac OS X with RubyMotion
+* [Dragging and dropping](http://kickcode.com/blog/2015/05/20/dragging-and-dropping-into-a-rubymotion-mac-os-x-app.html) - Dragging and dropping into your RubyMotion Mac macOS app
+* [Capturing video and audio](http://kickcode.com/blog/2015/05/06/capturing-video-and-audio-on-mac-os-x-with-rubymotion.html) - Capturing video and audio on Mac macOS with RubyMotion
+* [Previewing video and audio when capturing](http://kickcode.com/blog/2015/05/07/previewing-video-and-audio-when-capturing-on-mac-os-x-with-rubymotion.html) - Previewing video and audio when capturing on Mac macOS with RubyMotion
 * [User specified custom key combination for a global hotkey](http://kickcode.com/blog/2015/05/13/custom-user-hotkey-combo.html) - User specified custom key combination for a global hotkey
 
 
