@@ -1,17 +1,12 @@
 # Awesome RubyMotion [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-RubyMotion is an implementation of the Ruby programming language that
-compiles into native app's that run on iOS, OS X and Android. RubyMotion
-is a commercial product created by Laurent Sansonetti for HipByte and
-is based on MacRuby for OS X. RubyMotion works exclusively on macOS
+# [<img src="awesome-rubymotion.png">](https://github.com/motion-open-source/awesome-rubymotion)
 
-This list categorized community-driven collection of awesome RubyMotion
-example apps, libraries, tools, frameworks, software and resources.
+RubyMotion is an implementation of the Ruby programming language that compiles into native app's that run on iOS, OS X and Android. RubyMotion is a commercial product created by Laurent Sansonetti for HipByte and is based on MacRuby for macOS. RubyMotion works exclusively on macOS.
 
-Sharing, suggestions and contributions are always welcome! Please take a
-look at the [contribution guidelines and quality
-standard](https://github.com/motion-open-source/awesome-rubymotion/blob/master/CONTRIBUTING.md)
-first.
+This list categorized community-driven collection of awesome RubyMotion example apps, libraries, tools, frameworks, software and resources.  Sharing, suggestions and contributions are always welcome!
+
+Please take a look at the [contribution guidelines and quality standard](https://github.com/motion-open-source/awesome-rubymotion/blob/master/CONTRIBUTING.md) first.
 
 
 ## Contents
@@ -440,6 +435,7 @@ Chapters from the book Building Mac OS X apps with RubyMotion
 * [Talk about RubyMotion and Low Energy Bleutooth Sensors](https://vimeo.com/groups/199097/videos/69529068)
 
 
+
 ## Resources
 
 Where to learn about RubyMotion and discover new RubyMotion libraries, projects and trends.
@@ -449,11 +445,14 @@ Where to learn about RubyMotion and discover new RubyMotion libraries, projects 
 * [App catalog](http://www.rubymotion.com/references/app-catalog/) - There are lots of RubyMotion apps in production.
 
 
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+
 ## Thanks
 
 Thanks to Clay Allsopp who created the Motion Toolbox list.
 Thanks to all [contributors](https://github.com/motion-open-source/awesome-rubymotion/graphs/contributors), you're awesome and wouldn't be possible without you!
-
 
 # Other Awesome Lists
 
