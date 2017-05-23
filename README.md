@@ -334,9 +334,6 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [MotionPanel](https://github.com/tombroomfield/motion_panel) - Native RubyMotion wrapper around the Mixpanel API.
 * [MotionPaddle](https://github.com/henderea/motion-paddle) - RubyMotion gem for the Paddle framework
 * [Algolia Offline Search](https://github.com/algolia/motion-algolia-search) - Simple integration of Algolia Offline Search SDK (http://www.algolia.com/) in your RubyMotion application.
-* [Motion Parse](https://github.com/tkadauke/motion-parse) - Thin wrapper around the Parse SDK for RubyMotion.
-* [ParseModel](https://github.com/adelevie/ParseModel) - Active Record pattern for your Parse models.
-* [Parsistence](https://github.com/infinitered/Parsistence) - Parse.com wrapper similar to persistence.js.
 
 
 ### Scheduling
