@@ -1,4 +1,8 @@
-# [<img src="awesome-rubymotion.png">](https://github.com/motion-open-source/awesome-rubymotion)
+<h1 align="center">
+	<img width="1024" src="https://github.com/motion-open-source/awesome-rubymotion/raw/master/awesome-rubymotion2x.png" alt="Awesome RubyMotion">
+	<br>
+	<br>
+</h1>
 
 [RubyMotion](https://en.wikipedia.org/wiki/RubyMotion) is an implementation of the Ruby programming language that compiles into native app's that run on iOS, macOS and Android. RubyMotion is a commercial product created by Laurent Sansonetti for HipByte and is based on MacRuby for macOS. RubyMotion works exclusively on macOS.
 
