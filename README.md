@@ -213,7 +213,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [BubbleWrap](http://rubymotion.github.io/BubbleWrap) - Collection of (tested) helpers and wrappers used to wrap CocoaTouch code and provide more Ruby like APIs.
 * [Sugarcube](https://github.com/rubymotion/sugarcube) - These extensions hope to make development in RubyMotion more enjoyable by tacking 'UI' methods onto the base classes (String, Fixnum, Numeric). With sugarcube, you can create a color from an integer or symbol, or create a UIFont or UIImage from a string.
 * [RubyMotionQuery - RMQ](http://infinitered.com/rmq) - UI Library for RubyMotion. Fast, non-polluting, & chaining; it’s like jQuery for RubyMotion + stylesheets, animations, events, and more.
-* [MotionPrime](http://prime.droidlabs.pro) - MotionPrime is yet another framework written on RubyMotion for creating really fast iOS applications.
+* [MotionPrime](https://github.com/droidlabs/motion-prime) - MotionPrime is yet another framework written on RubyMotion for creating really fast iOS applications.
 * [Elevate](https://github.com/mattgreen/elevate) - Stop scattering your domain logic across your view controller. Consolidate it to a single conceptual unit with Elevate.
 * [RedPotion](https://github.com/infinitered/redpotion) - RedPotion combines RMQ, ProMotion, CDQ, AFMotion, and more for the perfect mix to develop in RubyMotion fast.
 * [Motion-support](https://github.com/rubymotion/motion-support) - Port of ActiveSupport to RubyMotion.
